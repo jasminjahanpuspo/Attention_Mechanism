@@ -1,5 +1,5 @@
 # Attention_Mechanism
-Pre-trained CNN models for image classification with attention mechanisms (SE, CBAM, ECA) including InceptionV3, DenseNet-121, EfficientNet, and ResNet50.
+Pre-trained CNN models for image classification with **attention mechanisms** (SE, CBAM, ECA) including *InceptionV3, DenseNet-121, EfficientNet, and ResNet50*.
 
 📁 File Structure
 
@@ -12,9 +12,10 @@ File_name/
 │   ├── SE
 │   └── ECA
 ```
+
 📌 Step-by-Step Code Flow
 
-'''
+```
 🔥 Model_Name: CNN(Architecture)_Attention_Mechanism/
 ├── 🖥️ Step 1: Setup Environment
 │   ├── 📂 Mount Google Drive
@@ -47,5 +48,5 @@ File_name/
     ├── 📉 Log Loss / Cross-Entropy Loss
     ├── 🏆 Top-k Accuracy
     └── 📏 G-Mean (Geometric Mean of Sensitivity & Specificity)
-'''
+```
 
