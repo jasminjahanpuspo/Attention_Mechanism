@@ -3,6 +3,7 @@ Pre-trained CNN models for image classification with attention mechanisms (SE, C
 
 ## Project File Structure
 
+```
 File_name/
 ├── README.md
 ├── LICENSE
@@ -10,4 +11,6 @@ File_name/
 │   ├── CBAM
 │   ├── SE
 │   └── ECA
+```
+
 
