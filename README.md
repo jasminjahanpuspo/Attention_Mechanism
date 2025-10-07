@@ -17,19 +17,19 @@ File_name/
 
 ```
 🔥 Model_Name: CNN(Architecture)_Attention_Mechanism/
-├── 🖥️ Step 1: **Setup Environment**
+├── 🖥️ Step 1: Setup Environment
 │   ├── 📂 Mount Google Drive
 │   └── 📚 Import Required Libraries
-├── 🗂️ Step 2: **Prepare Dataset**
+├── 🗂️ Step 2: Prepare Dataset
 │   ├── 🧩 Create TensorFlow Datasets
 │   └── ✨ Preprocess Images for Model Input
-├── 🏋️ Step 3: **Model Training**
+├── 🏋️ Step 3: Model Training
 │   ├── ⚙️ Build and Compile Model
 │   ├── 💾 Load / Set Model Weights
 │   ├── 🔒 Model Checkpoint & Save
 │   ├── 🏃 Train the Model
 │   └── 🧪 Test the Model
-└── 📊 Step 4: **Results & Visualizations**
+└── 📊 Step 4: Results & Visualizations
     ├── 🎯 Actual vs Predicted Classes
     ├── 🖼️ Actual vs Predicted Images
     ├── 📈 Training Accuracy & Loss
